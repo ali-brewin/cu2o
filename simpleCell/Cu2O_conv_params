@@ -1,0 +1,4 @@
+// KE cutoff and k point array to converge Cu2O to meV
+
+KE_cutoff : 900
+k_points : 7 7 7
