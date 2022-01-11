@@ -1,0 +1,8 @@
+task : Spectral
+spectral_task : bandStructure
+SPIN_ORBIT_COUPLING : True
+SPIN_TREATMENT: Vector
+
+cutoff_energy : 900.0 eV
+
+continuation: default
