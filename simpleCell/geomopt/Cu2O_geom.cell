@@ -1,0 +1,17 @@
+%block lattice_abc
+4.176 4.176 4.176
+90 90 90
+%endblock lattice_abc
+
+%block positions_frac
+O 0.00 0.00 0.00
+O 0.50 0.50 0.50
+Cu 0.25 0.25 0.25
+Cu 0.75 0.75 0.25
+Cu 0.75 0.25 0.75
+Cu 0.25 0.75 0.75
+%endblock positions_frac
+
+kpoint_mp_grid 7 7 7
+
+symmetryGenerate
