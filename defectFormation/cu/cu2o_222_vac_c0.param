@@ -1,0 +1,4 @@
+task : Geometry Optimization
+cutoff_energy : 700.0 eV
+charge: 0
+continuation: default
