@@ -1,0 +1,5 @@
+continuation : default
+task : Phonon
+phonon_fine_method : interpolate
+cutoff_energy: 900
+#grid_scale : 4
